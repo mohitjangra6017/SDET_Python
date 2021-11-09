@@ -42,7 +42,6 @@ print(create_account.click(), "register_button working successfully")
 # female_label = driver.find_element(By.XPATH, "//span[contains(@class,'_5k_2 _5dba')]//label[text()='Female']")
 # male_label = driver.find_element(By.XPATH, "//span[contains(@class,'_5k_2 _5dba')]//label[text()='Male']")
 # male_label.click()
-#
 # custom_label = driver.find_element(By.XPATH, "//span[contains(@class,'_5k_2 _5dba')]//label[text()='Custom']")
 #
 # signup_button = driver.find_element(By.XPATH, "//button[@name='websubmit']")
